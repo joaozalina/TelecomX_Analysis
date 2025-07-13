@@ -15,9 +15,7 @@ Depois de termos tratado todas as necessidades do data frame telecomDF, começam
     <li> Fizemos importações de bibliotecas úteis para análise da dados. As bibliotecas escolhidas foram: Pandas, Numpy, Seaborn, Matplotlib e Ploty.</li>
     <li> Limpamos os dados do data frame telecomDF: Removemos dados nulos e outros que pudessem atrapalhar a análise de evasão de cliente.</li>
     <li> Tratamos os dados do data frame: Procuramos por inconsistências, fizemos a conversão do tipo de dados das colunas dentre outras tarefas.</li>
-  </ul></p>
-
-  <br>
+  </ul></p><br>
 
   <h2>Tecnologias usadas:</h2>
 
