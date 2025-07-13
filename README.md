@@ -19,7 +19,7 @@ Depois de termos tratado todas as necessidades do data frame telecomDF, começam
   
 <br>
 
-  <h2>Tecnologias usadas:</h2>
+<h2>Tecnologias usadas:</h2>
 
   <ul>
   <li>Python</li>
