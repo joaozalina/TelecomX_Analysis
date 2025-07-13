@@ -1,7 +1,6 @@
 # TelecomX_Analysis
 <br>
 
-<br>
 <h2>Sobre o projeto</h2>
 
 <p>Fomos contratados para analisar a empresa Telecom X. A empresa solicitou nosso serviços porque está enfrentando um alto índice de cancelamentos de assinaturas (Churn de Clientes) e quer entender o que os leva a tomar essa decisão.
@@ -9,7 +8,7 @@
 Depois de termos tratado todas as necessidades do data frame telecomDF, começamos as análises exploratórias dos dados. Baseado nas informações do data frame, nós criamos gráficos e outras visualizações para identificarmos padrões dos clientes.</p>
 <br>
 
-<h3>Para iniciar esse projeto, nós:</h3>
+<h3>Para iniciar esse projeto, foram feitas algumas ações:</h3>
   
 <p>Ações no data frame:
   <ul>
