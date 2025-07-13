@@ -1,5 +1,4 @@
 # TelecomX_Analysis
-Análise de dados da empresa Telecom X
 <br>
 
 <br>
@@ -18,6 +17,8 @@ Depois de termos tratado todas as necessidades do data frame telecomDF, começam
     - Limpamos os dados do data frame telecomDF: Removemos dados nulos e outros que pudessem atrapalhar a análise de evasão de cliente.
     - Tratamos os dados do data frame: Procuramos por inconsistências, fizemos a conversão do tipo de dados das colunas dentre outras tarefas.
   </ul>
+
+  <br>
 
   <h2>Tecnologias usadas:</h2>
 
